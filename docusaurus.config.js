@@ -9,7 +9,7 @@ const config = {
   title: 'Phyliactyl',
   tagline: '🚀 Fast & Modern shuttle module! 🔥',
   url: 'https://github.com',
-  baseUrl: '/',
+  baseUrl: '/mybv/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

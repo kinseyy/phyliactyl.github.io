@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Phyliactyl',
   tagline: '🚀 Fast & Modern shuttle module! 🔥',
-  url: 'https://phyliactyl.xyz',
+  url: 'https://github.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
